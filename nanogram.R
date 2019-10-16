@@ -1,5 +1,4 @@
 library(devtools)
-# devtools::install_github("coolbutuseless/nonogram")
 library(nonogram)
 library(magick)
 
